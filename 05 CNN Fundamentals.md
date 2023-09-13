@@ -475,8 +475,8 @@ We covered a lot of material in this notebook, so let’s summarize the key poin
   to normalize the raw output from the classifier to the range `[0,1]`.
   These normalized values can be interpreted as the probability that the
   input image corresponds to the class label for each output neuron.
-
-## Notes: Stride and Padding
+* 
+* Notes: Stride and Padding
 
 In this unit we didn’t discuss the details associated with stride and
  padding options in convolutional layers. Those parameters can affect
